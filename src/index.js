@@ -8,8 +8,11 @@ import Spinner from './components/Spinner';
 import Squares from './components/Squares';
 import Programmers from './components/Programmers';
 
+
+/*  <> : Creates an array of elements */ 
 render(
-  <>
+  <> 
+  
     <Counter />
     <Moods />
     <Spinner />
